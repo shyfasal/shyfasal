@@ -35,14 +35,6 @@
 
 
 
-### 📌 Projects
-
-- 🧠 Recommender System with Reinforcement Learning  
-- 🌙 Night Vision Depth & Ego-Motion Estimation  
-- 🏭 Smart Warehouse Monitoring System  
-- 🎥 Command Center 2.0 (Warehouse Monitoring Center)   
-- 🔎 **Exploratory Data Analysis Projects** – Python (Pandas, Matplotlib, Seaborn)
-
 ---
 
 💡 *“Data is the new oil, but insights are the fuel for progress.”*  
