@@ -3,7 +3,7 @@
  Fresh graduate from Electrical Automation Engineering, Institut Teknologi Sepuluh Nopember Indonesia.
 
 🔍 **Interests:** Data Science, Machine Learning, Recommender Systems, and Deep Learning  
-🎓 **Experience:** Research Intern at **National Taiwan University of Science and Technology (NTUST)** – AI-based Recommendation System Project. Project Intern at **PT. Petrokimia Gresik**  
+🎓 **Experience:** Research Intern at **National Taiwan University of Science and Technology (NTUST)** – AI-based Recommendation System. Project Intern at **PT. Petrokimia Gresik**  
 🚀 **Goal:** To grow as a **Data Scientist** who builds intelligent and impactful solutions
 
 
