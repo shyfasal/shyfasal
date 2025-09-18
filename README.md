@@ -10,26 +10,35 @@ I'm **Shyfa Salsabila** — fresh graduate from Electrical Automation Engineerin
 
 ### 🛠️ Tech Stack
 
-**Languages & Tools**  
+### 🛠️ Programming & Tools
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/-ScikitLearn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=flat&logo=plotly&logoColor=white)
+![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus)
+![PLC](https://img.shields.io/badge/-PLC%20Programming-333?style=flat&logo=siemens)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GCP](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
 
 ---
 
-### 📊 GitHub Stats
-
-![Shyfa's GitHub stats](https://github-readme-stats.vercel.app/api?username=shyfasalsabila&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shyfasalsabila&layout=compact&theme=radical)
+### 🤖 AI / Machine Learning
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/-ScikitLearn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-333?style=flat&logo=pytorch)
+![RNN](https://img.shields.io/badge/-RNN-333?style=flat&logo=keras)
+![LSTM](https://img.shields.io/badge/-LSTM-333?style=flat&logo=keras)
+![CNN](https://img.shields.io/badge/-CNN-333?style=flat&logo=keras)
+![Reinforcement Learning](https://img.shields.io/badge/-Reinforcement%20Learning-333?style=flat&logo=openaigym)
+![Supervised Learning](https://img.shields.io/badge/-Supervised%20Learning-333?style=flat&logo=googlecolab)
+![Vision Transformers](https://img.shields.io/badge/-Vision%20Transformers-333?style=flat&logo=transformer)
 
 ---
+
+### 📊 Data Visualization
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=flat&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/-Seaborn-009688?style=flat&logo=python)
+![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![Dashboarding](https://img.shields.io/badge/-Dashboarding%20Tools-333?style=flat&logo=tableau)
+
 
 ### 📌 Projects
 
