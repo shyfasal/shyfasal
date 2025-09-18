@@ -1,4 +1,4 @@
-# Hi there, I'm Shyfa <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60px">
+# Hi there, I'm Shyfa <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
 
 
  Fresh graduate from Electrical Automation Engineering, Institut Teknologi Sepuluh Nopember Indonesia.
@@ -15,7 +15,7 @@
 </p>
 
 
-### <img src="https://media.giphy.com/media/Kfl09udXYhbjajJwEt/giphy.gif" width="60px"> AI / Machine Learning
+### <img src="https://media.giphy.com/media/Kfl09udXYhbjajJwEt/giphy.gif" width="90px"> AI / Machine Learning
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/-ScikitLearn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-333?style=flat&logo=pytorch)
