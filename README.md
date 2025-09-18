@@ -12,8 +12,7 @@ I'm **Shyfa Salsabila** — fresh graduate from Electrical Automation Engineerin
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,cpp,c,git,mysql,gcp" />
 </p>
-![PLC](https://img.shields.io/badge/-PLC%20Programming-333?style=flat&logo=siemens)
----
+
 
 ### 🤖 AI / Machine Learning
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
