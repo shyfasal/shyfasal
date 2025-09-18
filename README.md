@@ -1,11 +1,11 @@
-# Hi there, I'm Shyfa <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
+# Hi there, I'm Shyfa <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cTJ5Ym9sbnlmZDIwY3h3anQ5N2dsZGZ0Z2MzZGR3ZHVpazFnY2t4ciZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/2tNtGN4DGk5otI7Xqt/giphy.gif" width="30px">
 
 
  Fresh graduate from Electrical Automation Engineering, Institut Teknologi Sepuluh Nopember Indonesia.
 
 🔍 **Interests:** Data Science, Machine Learning, Recommender Systems, and Deep Learning  
 🎓 **Experience:** Research Intern at **National Taiwan University of Science and Technology (NTUST)** – AI-based Recommendation System. Project Intern at **PT. Petrokimia Gresik**  
- **Goal:** To grow as a **Data Scientist** who builds intelligent and impactful solutions
+🚀 **Goal:** To grow as a **Data Scientist** who builds intelligent and impactful solutions
 
 
 ---
@@ -15,7 +15,7 @@
 </p>
 
 
-### <img src="https://media.giphy.com/media/Ieo88333eatH73xKQG/giphy.gif" width="30px"> AI / Machine Learning
+### 🤖 AI / Machine Learning
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/-ScikitLearn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-333?style=flat&logo=pytorch)
