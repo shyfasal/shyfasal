@@ -8,8 +8,6 @@ I'm **Shyfa Salsabila** — fresh graduate from Electrical Automation Engineerin
 
 ---
 
-### 🛠️ Tech Stack
-
 ### 🛠️ Programming & Tools
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
 ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c)
