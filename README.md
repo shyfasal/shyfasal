@@ -10,18 +10,9 @@ I'm **Shyfa Salsabila** — fresh graduate from Electrical Automation Engineerin
 ---
 ### 🛠️ Programming & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,git,mysql,gcp,docker" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,git,mysql,gcp" />
 </p>
-
-
-### 🛠️ Programming & Tools
-![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
-![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus)
 ![PLC](https://img.shields.io/badge/-PLC%20Programming-333?style=flat&logo=siemens)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![GCP](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
-
 ---
 
 ### 🤖 AI / Machine Learning
