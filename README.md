@@ -6,7 +6,13 @@ I'm **Shyfa Salsabila** — fresh graduate from Electrical Automation Engineerin
 🎓 **Experience:** Research Intern at **National Taiwan University of Science and Technology (NTUST)** – AI-based Recommendation System Project  
 🚀 **Goal:** To grow as a **Data Scientist** who builds intelligent and impactful solutions
 
+
 ---
+### 🛠️ Programming & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,git,mysql,gcp,docker" />
+</p>
+
 
 ### 🛠️ Programming & Tools
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
