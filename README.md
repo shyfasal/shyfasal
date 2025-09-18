@@ -27,11 +27,13 @@
 
 ---
 
-### 📊 Data Visualization
+### 📊 Data Visualization & Analysis
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=flat&logo=plotly&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-009688?style=flat&logo=python)
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 ![Dashboarding](https://img.shields.io/badge/-Dashboarding%20Tools-333?style=flat&logo=tableau)
+
 
 
 ### 📌 Projects
