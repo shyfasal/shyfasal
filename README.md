@@ -1,6 +1,6 @@
 # Hi there, I'm Shyfa 👋
 
-I'm **Shyfa Salsabila** — fresh graduate from Electrical Automation Engineering, ITS Indonesia.
+ Fresh graduate from Electrical Automation Engineering, Institut Teknologi Sepuluh Nopember Indonesia.
 
 🔍 **Interests:** Data Science, Machine Learning, Recommender Systems, and Deep Learning  
 🎓 **Experience:** Research Intern at **National Taiwan University of Science and Technology (NTUST)** – AI-based Recommendation System Project  
@@ -36,9 +36,10 @@ I'm **Shyfa Salsabila** — fresh graduate from Electrical Automation Engineerin
 
 ### 📌 Projects
 
-- 🧠 **AI-based Recommendation System** – Internship @ NTUST  
-- 📊 **Electricity Usage Compliance Tracking System** – ITS Research Project  
-- 📚 **Book Recommendation Engine** – Collaborative Filtering + Deep Learning  
+- 🧠 Recommender System with Reinforcement Learning  
+- 🌙 Night Vision Depth & Ego-Motion Estimation  
+- 🏭 Smart Warehouse Monitoring System  
+- 🎥 Command Center 2.0 (Warehouse Monitoring Center)   
 - 🔎 **Exploratory Data Analysis Projects** – Python (Pandas, Matplotlib, Seaborn)
 
 ---
