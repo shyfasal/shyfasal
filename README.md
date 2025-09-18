@@ -1,4 +1,4 @@
-# Hi there, I'm Shyfa <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cTJ5Ym9sbnlmZDIwY3h3anQ5N2dsZGZ0Z2MzZGR3ZHVpazFnY2t4ciZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/2tNtGN4DGk5otI7Xqt/giphy.gif" width="60px">
+# Hi there, I'm Shyfa <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cTJ5Ym9sbnlmZDIwY3h3anQ5N2dsZGZ0Z2MzZGR3ZHVpazFnY2t4ciZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/2tNtGN4DGk5otI7Xqt/giphy.gif" width="50px">
 
 
  Fresh graduate from Electrical Automation Engineering, Institut Teknologi Sepuluh Nopember Indonesia.
