@@ -5,7 +5,7 @@
 
 🔍 **Interests:** Data Science, Machine Learning, Recommender Systems, and Deep Learning  
 🎓 **Experience:** Research Intern at **National Taiwan University of Science and Technology (NTUST)** – AI-based Recommendation System. Project Intern at **PT. Petrokimia Gresik**  
-<img src="https://media.giphy.com/media/1oF1KAEYvmXBMo6uTS/giphy.gif" width="40px"> **Goal:** To grow as a **Data Scientist** who builds intelligent and impactful solutions
+ **Goal:** To grow as a **Data Scientist** who builds intelligent and impactful solutions
 
 
 ---
@@ -15,8 +15,7 @@
 </p>
 
 
-### <img src="https://media.giphy.com/media/YnBntKOgnUSBkV7bQH/giphy.gif" width="40px">
- AI / Machine Learning
+### <img src="https://media.giphy.com/media/YnBntKOgnUSBkV7bQH/giphy.gif" width="40px"> AI / Machine Learning
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/-ScikitLearn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-333?style=flat&logo=pytorch)
