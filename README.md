@@ -15,7 +15,7 @@
 </p>
 
 
-### 🤖 AI / Machine Learning
+### 🤖 Machine Learning
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/-ScikitLearn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-333?style=flat&logo=pytorch)
